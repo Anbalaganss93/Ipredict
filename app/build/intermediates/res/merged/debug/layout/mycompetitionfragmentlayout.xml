@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#80000000"
+        android:gravity="center"
+        android:visibility="gone"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/daypoints"
+            style="@android:style/TextAppearance.DeviceDefault.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:text="Points of the day"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/points"
+            style="@android:style/TextAppearance.DeviceDefault.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:text="50"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.malinskiy.superrecyclerview.SuperRecyclerView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/mycompetitionlist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            app:layout_empty="@layout/emptyview"
+            app:layout_moreProgress="@layout/view_more_progress"
+            app:mainLayoutId="@layout/layout_recyclerview_verticalscroll"
+            app:recyclerClipToPadding="false"
+            app:scrollbarStyle="insideInset" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/emptycompetition"
+            android:gravity="center"
+            android:visibility="gone"
+            android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/logo_ipredict" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/emptycontent"
+            android:gravity="center_horizontal"
+            android:text="No matches available"
+            style="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:textColor="@color/lightblack"/>
+        </LinearLayout>
+
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/avi"
+            app:indicatorColor="@color/appcolor"
+            app:indicatorName="BallPulseIndicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone" />
+    </FrameLayout>
+</LinearLayout>

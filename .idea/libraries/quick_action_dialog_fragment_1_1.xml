@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="quick-action-dialog-fragment-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.kingfisherphuoc/quick-action-dialog-fragment/1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.kingfisherphuoc/quick-action-dialog-fragment/1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kingfisherphuoc/quick-action-dialog-fragment/1.1/4281816ba035d8b107e360529632dd3225f8db71/quick-action-dialog-fragment-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

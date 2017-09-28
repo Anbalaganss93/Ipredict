@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mxn.soul.flowingdrawer_core.LeftDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/id_drawerlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/appcolor">
+
+            <ImageView
+                android:id="@+id/drawericon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="start"
+                android:contentDescription="@null"
+                android:src="@drawable/drawericon" />
+
+            <TextView
+                android:id="@+id/toolbartext_back"
+                style="@android:style/TextAppearance.DeviceDefault.Medium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@id/drawericon"
+                android:layout_toRightOf="@id/drawericon"
+                android:gravity="center_vertical"
+                android:textColor="@color/white" />
+
+            <ImageView
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_centerVertical="true"
+                android:layout_gravity="start"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+                android:layout_toEndOf="@id/toolbartext_back"
+                android:layout_toRightOf="@id/toolbartext_back"
+                android:contentDescription="@null"
+                android:src="@drawable/downicon" />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/lightwhite">
+
+            <com.malinskiy.superrecyclerview.SuperRecyclerView
+                android:id="@+id/matchlist"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                app:layout_empty="@layout/emptyview"
+                app:layout_moreProgress="@layout/view_more_progress"
+                app:mainLayoutId="@layout/layout_recyclerview_verticalscroll"
+                app:recyclerClipToPadding="false"
+                app:scrollbarStyle="insideInset" />
+
+            <LinearLayout
+                android:id="@+id/emptymatch"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:contentDescription="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/logo_ipredict" />
+
+                <TextView
+                    android:id="@+id/nomatchcontent"
+                    style="@android:style/TextAppearance.DeviceDefault.Medium"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/mymatch"
+                    android:textColor="@color/lightblack" />
+            </LinearLayout>
+
+            <com.wang.avi.AVLoadingIndicatorView
+                android:id="@+id/avi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:visibility="visible"
+                app:indicatorColor="@color/appcolor"
+                app:indicatorName="BallPulseIndicator" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="280dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:clipChildren="false">
+
+        <com.mxn.soul.flowingdrawer_core.FlowingView
+            android:id="@+id/sv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <FrameLayout
+            android:id="@+id/id_container_menu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginEnd="50dp"
+            android:layout_marginRight="50dp"
+            android:paddingEnd="10dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="10dp"
+            android:paddingStart="0dp" />
+    </RelativeLayout>
+</com.mxn.soul.flowingdrawer_core.LeftDrawerLayout>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/manimlayout"
+    android:layout_height="172dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="172dp"
+        android:background="@drawable/backgroundlayer"
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:scaleType="centerCrop"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/img2"
+        />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:visibility="visible"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="9dp"
+            android:layout_marginRight="8dp"
+            android:alpha="0.6"
+            android:background="#000000"/>
+    </RelativeLayout>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="172dp"
+
+    android:gravity="center"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="02 Feb 2016"
+        android:id="@+id/date"
+        style="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:gravity="center"
+        android:textColor="@color/white"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:id="@+id/pointscored"
+            android:paddingLeft="15dp"
+            style="@android:style/TextAppearance.DeviceDefault.Small"
+            android:gravity="center_vertical"
+            android:text="Points Scored"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/point"
+            android:text="45"
+            style="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:gravity="center_vertical|right"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:paddingLeft="15dp"
+            android:id="@+id/bonuspoints"
+            style="@android:style/TextAppearance.DeviceDefault.Small"
+            android:gravity="center_vertical"
+            android:text="Bonus Points"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="10% of 45"
+            android:id="@+id/bonuspercentage"
+            android:gravity="center_vertical|right"
+            style="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginTop="7dp"
+        android:gravity="right"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            style="@android:style/TextAppearance.DeviceDefault.Small"
+            android:gravity="center_vertical"
+            android:text="Total Points :"
+            android:id="@+id/totallable"
+            android:textColor="@color/white"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="60"
+            android:id="@+id/total"
+            android:paddingLeft="20dp"
+            android:gravity="center"
+            style="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+
+</LinearLayout>
+    </FrameLayout>

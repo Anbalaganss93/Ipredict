@@ -1,0 +1,8 @@
+int attr color_array 0x7f010001
+int attr dot_radius 0x7f010000
+int attr number_of_dots 0x7f010002
+int string app_name 0x7f020000
+int[] styleable DotLoader { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable DotLoader_color_array 1
+int styleable DotLoader_dot_radius 0
+int styleable DotLoader_number_of_dots 2

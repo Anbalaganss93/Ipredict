@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "456697549074",
+    "firebase_url": "https://ipredictfantasy.firebaseio.com",
+    "project_id": "ipredictfantasy",
+    "storage_bucket": "ipredictfantasy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456697549074:android:ca60c52f8fa93d0b",
+        "android_client_info": {
+          "package_name": "com.ipredictfantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456697549074-lur7l4caqsqv48kmnufn7mqkatbjm2c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ipredictfantasy",
+            "certificate_hash": "16BD4704C163D5725980428CCAFDB8DAF7CD6B20"
+          }
+        },
+        {
+          "client_id": "456697549074-qaof6684rpnbfmh1ak1g3igk05tuiccr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBn2XSg4V5rPJgdIFx2Tun23RXbxCXTyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

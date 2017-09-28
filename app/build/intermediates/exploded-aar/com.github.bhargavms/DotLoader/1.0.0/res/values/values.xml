@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotLoader"><attr format="dimension" name="dot_radius"/><attr format="reference" name="color_array"/><attr format="integer" name="number_of_dots"/></declare-styleable>
+    <string name="app_name">dotloader</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00695B</color>
+    <color name="colorPrimaryDark">#005A4E</color>   //#1F8972
+    <color name="colorAccent">#00695B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#666666</color>
+    <color name="grid_graycolor">#ACACAC</color>
+    <color name="transparent">#0000ffff</color>
+    <color name="black">#000000</color>
+    <color name="lightblack">#333333</color>
+    <color name="red">#E10000</color>
+    <color name="darkred">#A80000</color>
+    <color name="appcolor">#00695B</color>
+    //33D1AD  #27B193
+    <color name="lightwhite">#eae8e8</color>
+    <color name="orange">#FF5A1C</color>
+
+    <color name="tabunselected">#a3a0a0</color>
+    <color name="tabselected">#FFFFFF</color>
+</resources>

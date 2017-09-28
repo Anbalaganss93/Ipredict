@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ipredictfantasy">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name=".activity.IpredictApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Ipredict"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="icon,label">
+
+        <!-- android.support.multidex.MultiDexApplication -->
+        <activity
+            android:name=".activity.SplashScreen"
+            android:label="@string/title_activity_splash_screen"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!--  -->
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.vungle.publisher.VideoFullScreenAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+
+        <activity
+            android:name="com.vungle.publisher.MraidFullScreenAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+
+        <activity
+            android:name="com.vungle.publisher.FlexViewAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="Zuri"
+            android:theme="@style/FullyTranslucent"
+            tools:replace="android:theme" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".activity.RegisterPage"
+            android:label="@string/title_activity_register_page"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.WelcomeScreen"
+            android:label="@string/title_activity_welcome_screen"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activity.LeaderBoard"
+            android:label="@string/title_activity_leader_board"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity.IntroScreen"
+            android:label="@string/title_activity_leader_board"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity.MyPointsActivity"
+            android:label="@string/title_activity_my_points"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity.MycompetitionActivity"
+            android:label="@string/title_activity_mycompition"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity.CompetitorScore"
+            android:label="@string/title_activity_competitor_score"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"></activity>
+        <activity
+            android:name=".activity.Profile"
+            android:label="@string/title_activity_profile"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity.BonusPointsActivity"
+            android:label="@string/title_activity_bonus_points"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity.ForgotpasswordActivity"
+            android:label="@string/title_activity_profile"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity.HowtoplayActivity"
+            android:label="@string/title_activity_profile"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.CroperActivity"
+            android:label="@string/title_activity_profile"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.MatchsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.QuestionActivity"
+            android:screenOrientation="portrait" />
+
+        <service android:name=".fbc.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".fbc.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".activity.SupportActivity" />
+        <activity android:name=".activity.InitialScreenActivity"></activity>
+    </application>
+
+</manifest>

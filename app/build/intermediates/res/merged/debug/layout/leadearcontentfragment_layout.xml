@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/myleaderboardscore"
+        style="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:textColor="@color/lightblack" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/lightwhite">
+
+        <com.malinskiy.superrecyclerview.SuperRecyclerView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/boardlist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            app:layout_empty="@layout/emptyview"
+            app:layout_moreProgress="@layout/view_more_progress"
+            app:mainLayoutId="@layout/layout_recyclerview_verticalscroll"
+            app:recyclerClipToPadding="false"
+            app:scrollbarStyle="insideInset" />
+
+        <LinearLayout
+            android:id="@+id/emptyleaderboard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="centerCrop"
+                android:src="@drawable/logo_ipredict" />
+
+            <TextView
+                android:id="@+id/leaderboardcontent"
+                style="@android:style/TextAppearance.DeviceDefault.Medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center_horizontal"
+                android:text="No users"
+                android:textColor="@color/lightblack" />
+        </LinearLayout>
+
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/avi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            app:indicatorColor="@color/appcolor"
+            app:indicatorName="BallPulseIndicator" />
+    </FrameLayout>
+</LinearLayout>

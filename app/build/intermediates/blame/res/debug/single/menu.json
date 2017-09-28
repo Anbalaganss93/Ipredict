@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.theartofdev.edmodo\\android-image-cropper\\2.2.3\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.mxn.soul\\flowingdrawer-core\\1.2.2\\res\\menu\\menu_main.xml"
+    }
+]

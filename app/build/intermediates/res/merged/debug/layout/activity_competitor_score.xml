@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/avi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        app:indicatorColor="@color/appcolor"
+        app:indicatorName="BallPulseIndicator" />
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:fitsSystemWindows="true"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="@android:color/transparent"
+            app:expandedTitleMarginEnd="64dp"
+            app:expandedTitleMarginStart="48dp"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/scorepattern"
+                android:orientation="vertical"
+                android:paddingBottom="60dp">
+
+                <FrameLayout
+                    android:id="@+id/myframecontainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="?attr/actionBarSize"
+                            android:background="@color/appcolor">
+
+                            <ImageView
+                                android:id="@+id/back"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentLeft="true"
+                                android:layout_alignParentStart="true"
+                                android:layout_centerVertical="true"
+                                android:layout_gravity="start"
+                                android:contentDescription="@null"
+                                android:src="@drawable/arrow" />
+
+                            <TextView
+                                android:id="@+id/toolbartext_back"
+                                style="@android:style/TextAppearance.DeviceDefault.Medium"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:layout_centerHorizontal="true"
+                                android:gravity="center_vertical"
+
+                                android:text="@string/scoretitle"
+                                android:textColor="@color/white" />
+                        </RelativeLayout>
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/competitor_score_teamone_name"
+                                style="@android:style/TextAppearance.DeviceDefault.Small"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:layout_marginRight="90dp"
+                                android:ellipsize="end"
+                                android:gravity="left|center_vertical"
+                                android:maxLines="2"
+                                android:text="ESPN 20"
+                                android:textColor="@color/white"
+                                android:textSize="25sp" />
+
+                            <ImageView
+                                android:id="@+id/competitor_score_sportimage"
+                                android:layout_width="wrap_content"
+                                android:layout_height="150dp"
+                                android:layout_gravity="center"
+                                android:contentDescription="@null"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/cricketdefaultimage" />
+
+                            <TextView
+                                android:id="@+id/vs"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="20dp"
+                                android:layout_marginLeft="15dp"
+                                android:background="@drawable/circledrawable"
+                                android:gravity="center"
+                                android:padding="6dp"
+                                android:text="@string/vs"
+                                android:textColor="@color/red"
+                                android:textSize="12sp"
+                                android:visibility="visible" />
+
+
+                            <TextView
+                                android:id="@+id/competitor_score_teamtwo_name"
+                                style="@android:style/TextAppearance.DeviceDefault.Small"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:layout_gravity="right"
+                                android:ellipsize="end"
+                                android:gravity="right|center_vertical"
+                                android:text="ESPN In"
+                                android:textColor="@color/white"
+                                android:textSize="25sp" />
+                        </FrameLayout>
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:layout_gravity="bottom"
+
+                android:gravity="center"
+                android:title=""
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/rectangleshape"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/competitor_score_date"
+                        style="@android:style/TextAppearance.DeviceDefault.Small"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:text="DEC 17 2017"
+                        android:textColor="@color/white" />
+
+                    <TextView
+                        android:id="@+id/competitor_score_time"
+                        style="@android:style/TextAppearance.DeviceDefault.Small"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:gravity="center"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:text="8.00 PM"
+                        android:textColor="@color/white" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="right"
+                        android:orientation="horizontal"
+                        android:paddingRight="10dp">
+
+                        <com.mikhaellopez.circularimageview.CircularImageView
+                            android:id="@+id/myimg"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="center_vertical"
+                            android:contentDescription="@null"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profiledefaultimg"
+                            app:border_width="1dp" />
+
+                        <TextView
+                            android:id="@+id/useronescore"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:paddingLeft="5dp"
+                            android:text="10"
+                            android:textColor="@color/white"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/plusimage"
+                            android:layout_width="25dp"
+                            android:layout_height="25dp"
+                            android:layout_alignParentBottom="true"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:src="@drawable/diamond" />
+
+                        <View
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_above="@id/plusimage"
+                            android:layout_centerHorizontal="true"
+                            android:background="@color/white" />
+
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="left"
+                        android:layout_weight="1"
+                        android:orientation="horizontal"
+                        android:paddingLeft="10dp">
+
+                        <com.mikhaellopez.circularimageview.CircularImageView
+                            android:id="@+id/competitorimg"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center_vertical"
+                            android:contentDescription="@null"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profile_default_yellow"
+                            app:border_width="1dp" />
+
+                        <TextView
+                            android:id="@+id/usertwoscore"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:paddingLeft="5dp"
+                            android:text="7"
+                            android:textColor="@color/white"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.Toolbar>
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <ListView
+            android:id="@+id/user_resultlist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#E6CC79"
+            android:dividerHeight="0.7dp" />
+
+        <TextView
+            android:id="@+id/waitingopponentanswer"
+            style="@style/TextAppearance.AppCompat.Medium"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Opponent is not finish prediction till now.Please wait..."
+            android:textColor="@color/black" />
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

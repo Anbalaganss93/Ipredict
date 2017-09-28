@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><!--<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@null"
+        android:scaleType="centerCrop"
+        android:src="@drawable/pagebackground" />
+
+    <RelativeLayout
+        android:id="@+id/progresscontainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:visibility="gone">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.6"
+            android:background="@color/black"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center">
+
+            <ProgressBar
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:layout_marginBottom="15dp"
+                android:indeterminate="true"
+                android:indeterminateDrawable="@drawable/customprogressbar" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/avi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:indicatorColor="@color/appcolor"
+        app:indicatorName="BallPulseIndicator" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/toobarwithback" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp">
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/fullname"
+                style="@android:style/TextAppearance.DeviceDefault.Small"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittextdrawable"
+                android:gravity="center_vertical"
+                android:hint="Full Name*"
+                android:imeOptions="actionNext"
+                android:paddingLeft="10dp"
+                app:met_baseColor="@android:color/white"
+                app:met_errorColor="@color/red"
+                app:met_floatingLabel="highlight"
+                app:met_primaryColor="?colorAccent"
+                app:met_singleLineEllipsis="true"
+                app:met_textColorHint="@color/gray_light"
+                app:met_underlineColor="@color/appcolor" />
+
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/phonenumber"
+                style="@android:style/TextAppearance.DeviceDefault.Small"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittextdrawable"
+                android:gravity="center_vertical"
+                android:hint="Phone Number"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLength="10"
+                android:paddingLeft="10dp"
+                android:singleLine="true"
+                app:met_baseColor="@android:color/white"
+                app:met_errorColor="@color/red"
+                app:met_floatingLabel="highlight"
+                app:met_primaryColor="?colorAccent"
+                app:met_singleLineEllipsis="true"
+                app:met_textColorHint="@color/gray_light"
+                app:met_underlineColor="@color/appcolor" />
+
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/emailaddress"
+                style="@android:style/TextAppearance.DeviceDefault.Small"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittextdrawable"
+                android:gravity="center_vertical"
+                android:hint="Email Address*"
+                android:imeOptions="actionNext"
+                android:paddingLeft="10dp"
+                app:met_baseColor="@android:color/white"
+                app:met_errorColor="@color/red"
+                app:met_floatingLabel="highlight"
+                app:met_primaryColor="?colorAccent"
+                app:met_singleLineEllipsis="true"
+                app:met_textColorHint="@color/gray_light"
+                app:met_underlineColor="@color/appcolor" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight=".05"></Space>
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/r_password"
+                style="@android:style/TextAppearance.DeviceDefault.Small"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittextdrawable"
+                android:gravity="center_vertical"
+                android:hint="Password*"
+                android:imeOptions="actionNext"
+                android:inputType="textPassword"
+                android:paddingLeft="10dp"
+                android:singleLine="true"
+                app:met_baseColor="@android:color/white"
+                app:met_errorColor="@color/red"
+                app:met_floatingLabel="highlight"
+                app:met_primaryColor="?colorAccent"
+                app:met_singleLineEllipsis="true"
+                app:met_textColorHint="@color/gray_light"
+                app:met_underlineColor="@color/appcolor" />
+
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/r_confirmpassword"
+                style="@android:style/TextAppearance.DeviceDefault.Small"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittextdrawable"
+                android:gravity="center_vertical"
+                android:hint="Confirm Password*"
+                android:imeOptions="actionDone"
+                android:inputType="textPassword"
+                android:paddingLeft="10dp"
+                app:met_baseColor="@android:color/white"
+                app:met_errorColor="@color/red"
+                app:met_floatingLabel="highlight"
+                app:met_primaryColor="?colorAccent"
+                app:met_singleLineEllipsis="true"
+                app:met_textColorHint="@color/gray_light"
+                app:met_underlineColor="@color/appcolor" />
+
+            <TextView
+                style="@android:style/TextAppearance.DeviceDefault.Small"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_weight=".1"
+                android:gravity="right|top"
+                android:paddingRight="5dp"
+                android:text="Mandatory Fields*"
+                android:textColor="@color/white" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_weight=".4"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal">
+
+                    <ProgressBar
+                        android:id="@+id/progress_reg"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginRight="7dp"
+                        android:indeterminate="true"
+                        android:indeterminateDrawable="@drawable/customprogressbar"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/r_register"
+                        style="@android:style/TextAppearance.DeviceDefault.Small"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@id/progress_reg"
+                        android:background="@drawable/appbuttonbackground"
+                        android:text="Register"
+                        android:textAllCaps="true"
+                        android:textColor="@color/white" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/r_register"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center_horizontal">
+
+                        <TextView
+                            android:id="@+id/account"
+                            style="@android:style/TextAppearance.DeviceDefault.Small"
+                            android:layout_width="wrap_content"
+                            android:layout_height="30dp"
+                            android:gravity="center_vertical"
+                            android:text="Already have an account?"
+                            android:textColor="@color/white" />
+
+                        <Button
+                            android:id="@+id/login_ur"
+                            style="@android:style/TextAppearance.DeviceDefault.Small"
+                            android:layout_width="wrap_content"
+                            android:layout_height="30dp"
+                            android:layout_marginLeft="5dp"
+                            android:layout_toRightOf="@id/account"
+                            android:background="@color/transparent"
+                            android:gravity="center_vertical"
+                            android:text="Login."
+                            android:textAllCaps="true"
+                            android:textColor="@color/white" />
+                    </RelativeLayout>
+
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout><!--</ScrollView>-->
