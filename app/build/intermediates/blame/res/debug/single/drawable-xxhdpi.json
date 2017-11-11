@@ -1,15 +1,39 @@
 [
     {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\drawericon.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-xxhdpi\\drawericon.png"
+    },
+    {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\footballicon.png",
         "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xxhdpi\\footballicon.png"
+    },
+    {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_place.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-xxhdpi\\ic_place.png"
+    },
+    {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\prdick_right.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-xxhdpi\\prdick_right.png"
     },
     {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\drawericon.png",
         "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xxhdpi\\drawericon.png"
     },
     {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\footballicon.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-xxhdpi\\footballicon.png"
+    },
+    {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cricketbaticon.png",
         "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xxhdpi\\cricketbaticon.png"
+    },
+    {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cricketbaticon.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-xxhdpi\\cricketbaticon.png"
+    },
+    {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ilogo.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-xxhdpi\\ilogo.png"
     },
     {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_white.png",
@@ -30,5 +54,17 @@
     {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ilogo.png",
         "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xxhdpi\\ilogo.png"
+    },
+    {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\met_ic_clear.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\exploded-aar\\com.rengwuxian.materialedittext\\library\\2.1.4\\res\\drawable-xxhdpi\\met_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bottomstyle.9.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-xxhdpi\\bottomstyle.9.png"
+    },
+    {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_white.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-xxhdpi\\home_white.png"
     }
 ]

@@ -4,7 +4,15 @@
         "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\interpolator\\mr_fast_out_slow_in.xml"
     },
     {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    },
+    {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
         "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\interpolator\\mr_linear_out_slow_in.xml"
     }
 ]

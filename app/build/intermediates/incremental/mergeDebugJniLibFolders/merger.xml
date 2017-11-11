@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\sample\Ipredict-master\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\sample\Ipredict-master\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Sampleprojects\Ipredict-develop\Ipredict\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Sampleprojects\Ipredict-develop\Ipredict\app\src\debug\jniLibs"/></dataSet></merger>

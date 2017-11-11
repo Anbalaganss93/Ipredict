@@ -149,6 +149,11 @@ public class CompetitorScore extends AppCompatActivity {
         sportcontainerparam.gravity = (Gravity.CENTER);
         sportimage.setLayoutParams(sportcontainerparam);
 
+        if(gameid.equals("1")){
+            sportimage.setImageResource(R.drawable.cricketsample2);
+        }else{
+            sportimage.setImageResource(R.drawable.footsample3);
+        }
         user1.bringToFront();
         user2.bringToFront();
 
