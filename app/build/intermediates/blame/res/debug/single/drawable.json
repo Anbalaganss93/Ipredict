@@ -1,638 +1,646 @@
 [
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\background.jpg"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circleindicator.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\circleindicator.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_disconnect.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_skip_ad_label_border.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clipviewdrawable.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\clipviewdrawable.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customprogressbar.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\customprogressbar.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_skip_next.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_up_arrow.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\ic_up_arrow.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boxshapedrawable.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\boxshapedrawable.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intro3.jpg",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\intro3.jpg"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_rewind10.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_rewind.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downicon.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\downicon.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newlogo.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\newlogo.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\messenger_button_white_bg_round.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footballcommingsoon1.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\footballcommingsoon1.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingdrawable.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\ratingdrawable.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_like_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_send_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_favicon_blue.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pointboxdrawable.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\pointboxdrawable.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downicon.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\downicon.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_play.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footballcommingsoon1.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\footballcommingsoon1.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_shadow.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\layer_shadow.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_forward30.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundlayer.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\backgroundlayer.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appbuttonbackground.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\appbuttonbackground.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_radius.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\me.relex\\circleindicator\\1.2.2\\res\\drawable\\white_radius.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_skip_ad_label_border.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_play.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\question_yellow.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\question_yellow.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circledrawable.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\circledrawable.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonborder.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\buttonborder.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appbuttonbackground_red.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\appbuttonbackground_red.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_send_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_rewind30.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clipviewdrawable.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\clipviewdrawable.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonbackground.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\radiobuttonbackground.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_shadow.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\layer_shadow.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_skip_next.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intro2.jpg",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\intro2.jpg"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\question_yellow.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\question_yellow.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appbuttonbackground.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\appbuttonbackground.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_forward10.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_pause.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_mini_controller_gradient_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_ic_visibility.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foot2.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\foot2.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_forward.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\background.jpg"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonselectedborder.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\radiobuttonselectedborder.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundlayer.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\backgroundlayer.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_send_button_icon.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boxshapedrawable.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\boxshapedrawable.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangleshape.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\rectangleshape.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonborder.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\buttonborder.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appbuttonbackground_red.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\appbuttonbackground_red.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intro2.jpg",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\intro2.jpg"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_send_button_icon.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_skip_prev.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_play.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_icon.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circleindicator.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\circleindicator.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_play.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_ic_visibility.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_stop.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_up_arrow.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\ic_up_arrow.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_icon.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_forward.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonborder.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\radiobuttonborder.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intro1.jpg",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\intro1.jpg"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_disconnect.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonborder.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\radiobuttonborder.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_rewind.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\me.relex\\circleindicator\\1.2.2\\res\\drawable\\white_radius.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dhoni.jpg",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\dhoni.jpg"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.2.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangleshape.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\rectangleshape.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customprogressbar.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\customprogressbar.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_pause.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.2.0\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_forward30.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foot3.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\foot3.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_favicon_blue.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dhoni.jpg",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\dhoni.jpg"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipredictbackground_2.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\ipredictbackground_2.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_small_icon.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_rewind10.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intro1.jpg",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\intro1.jpg"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_mute.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_play.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newlogo.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\newlogo.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circledrawable.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\circledrawable.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonbackground.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\radiobuttonbackground.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pointboxdrawable.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\pointboxdrawable.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonselectedborder.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\radiobuttonselectedborder.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_small_icon.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingdrawable.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\ratingdrawable.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipredictbackground_2.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable\\ipredictbackground_2.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_button_like_background.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intro3.jpg",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable\\intro3.jpg"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_material.xml"
     }
 ]

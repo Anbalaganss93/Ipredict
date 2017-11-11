@@ -476,10 +476,10 @@ public final class R {
 		public static final int abc_textfield_search_activated_mtrl_alpha = 0x7f02004f;
 		public static final int abc_textfield_search_default_mtrl_alpha = 0x7f020050;
 		public static final int abc_textfield_search_material = 0x7f020051;
-		public static final int crop_image_menu_crop = 0x7f0201f0;
-		public static final int crop_image_menu_rotate_left = 0x7f0200c6;
-		public static final int crop_image_menu_rotate_right = 0x7f0200c7;
-		public static final int notification_template_icon_bg = 0x7f0201f1;
+		public static final int crop_image_menu_crop = 0x7f0201f8;
+		public static final int crop_image_menu_rotate_left = 0x7f0200ca;
+		public static final int crop_image_menu_rotate_right = 0x7f0200cb;
+		public static final int notification_template_icon_bg = 0x7f0201f9;
 	}
 	public static final class id {
 		public static final int CropOverlayView = 0x7f0f017a;

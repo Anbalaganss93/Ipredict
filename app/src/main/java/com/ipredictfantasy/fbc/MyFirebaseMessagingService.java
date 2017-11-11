@@ -25,12 +25,15 @@ import com.google.firebase.messaging.RemoteMessage;
 import com.ipredictfantasy.activity.IpredictApplication;
 import com.ipredictfantasy.activity.SplashScreen;
 import com.ipredictfantasy.R;
+import com.squareup.picasso.Picasso;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+
+import static com.ipredictfantasy.activity.IpredictApplication.context;
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
@@ -59,8 +62,6 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         Log.d(TAG, "Notification Message Body: " + remoteMessage.getNotification().getBody());
         messagetitle = remoteMessage.getNotification().getTitle();
         sendNotification(remoteMessage);
-
-
     }
     // [END receive_message]
 
@@ -74,7 +75,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         String imageUrl = null;
         if (remoteMessage.getData().size() > 0) {
             if (remoteMessage.getData().containsKey("image")) {
-                imageUrl = remoteMessage.getData().get("image");
+                imageUrl = "http://1.bp.blogspot.com/-wOLzqTQ_QX0/U32zpJ9IilI/AAAAAAAAAP4/TC6_QYsdqZw/s1600/1375945_252917514856348_518554147_n.jpg"; //remoteMessage.getData().get("image");
                 bitmap = getBitmap(imageUrl);
             }
         }
@@ -92,11 +93,12 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         defaultSoundUri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
         NotificationCompat.Builder notificationBuilder = null;
         // image showing in notification
-        notiStyle = new NotificationCompat.BigPictureStyle();
+       /* notiStyle = new NotificationCompat.BigPictureStyle();
         notiStyle.setSummaryText(messageBody);
         if (remoteMessage.getData().containsKey("image")) {
             notiStyle.bigPicture(bitmap);
-        }
+        }*/
+
        /* if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.JELLY_BEAN) {
             if (remoteMessage.getData().containsKey("image")) {
                 *//* notificationBuilder = new NotificationCompat.Builder(IpredictApplication.context)
@@ -111,15 +113,28 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
                 new generatePictureStyleNotification(this, messagetitle, messageBody, imageUrl).execute();
             } else {*/
-        notificationBuilder = new NotificationCompat.Builder(this)
-                .setSmallIcon(R.mipmap.ic_launcher)
-                .setContentTitle(messagetitle)
-                .setContentText(messageBody)
-                .setStyle(new NotificationCompat.BigPictureStyle()
-                        .bigPicture(bitmap))
-                .setAutoCancel(true)
-                .setSound(defaultSoundUri)
-                .setContentIntent(pendingIntent);
+        imageUrl = "http://1.bp.blogspot.com/-wOLzqTQ_QX0/U32zpJ9IilI/AAAAAAAAAP4/TC6_QYsdqZw/s1600/1375945_252917514856348_518554147_n.jpg"; //remoteMessage.getData().get("image");
+        bitmap = getBitmap(imageUrl);
+
+        try {
+            notificationBuilder = new NotificationCompat.Builder(this)
+//                    .setSmallIcon(R.mipmap.ic_launcher)
+                    .setContentTitle(messagetitle)
+                    .setContentText(messageBody)
+                    .setStyle(new NotificationCompat.BigPictureStyle()
+                            .bigPicture(Picasso.with(context).load(remoteMessage.getData().get("image")).get()).setSummaryText(messageBody))
+                    .setAutoCancel(true)
+                    .setSound(defaultSoundUri)
+                    .setContentIntent(pendingIntent);
+            if (android.os.Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                notificationBuilder.setSmallIcon(R.drawable.ic_place);
+                notificationBuilder.setColor(getResources().getColor(R.color.orange));
+            } else {
+                notificationBuilder.setSmallIcon(R.drawable.ic_place);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
 //            }
 
@@ -170,7 +185,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
             Bitmap bitmap = BitmapFactory.decodeResource(getResources(),
                     R.drawable.dhoni);
 
-            NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(IpredictApplication.context)
+            NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(context)
                     .setSmallIcon(R.mipmap.ic_launcher)
                     .setContentTitle(title)
                     .setContentText(message)

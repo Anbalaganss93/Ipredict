@@ -103,7 +103,6 @@ public class CompetitorScore extends AppCompatActivity {
         competitorimg = (CircularImageView) findViewById(R.id.competitorimg);
         myimg = (CircularImageView) findViewById(R.id.myimg);
         ImageView sportimage = (ImageView) findViewById(R.id.competitor_score_sportimage);
-
         setSupportActionBar(toolbar);
 
         try {
@@ -149,6 +148,9 @@ public class CompetitorScore extends AppCompatActivity {
         sportcontainerparam.height = (int) (0.5 * metrics.heightPixels);
         sportcontainerparam.gravity = (Gravity.CENTER);
         sportimage.setLayoutParams(sportcontainerparam);
+
+        user1.bringToFront();
+        user2.bringToFront();
 
         waitingopponentanswer.setVisibility(View.GONE);
         try {
@@ -276,11 +278,14 @@ public class CompetitorScore extends AppCompatActivity {
                         }
                         CompetitorAdapter adapter = new CompetitorAdapter(CompetitorScore.this, arrayList);
                         listview.setAdapter(adapter);
-                        if (winner_id == user_id) {
+                        user1.setAllCaps(true);
+                        user2.setAllCaps(true);
+                        if (winner_id.equals(user_id)) {
                             user1.setText(user_name);
                             user2.setText(opponent_name);
                             if (opponent_name.trim().equals("")) {
-                                user2.setText("Unknown");
+                                user2.setAllCaps(false);
+                                user2.setText("Mr.X");
                             }
                             useronescore.setText(userscore);
                             usertwoscore.setText(opponentscore);
@@ -290,7 +295,8 @@ public class CompetitorScore extends AppCompatActivity {
 //                            String opponent = opponent_name.equals("") ? "?" : opponent_name;
                             user1.setText(opponent_name);
                             if (opponent_name.trim().equals("")) {
-                                user1.setText("Unknown");
+                                user1.setAllCaps(false);
+                                user1.setText("Mr.X");
                             }
                             user2.setText(user_name);
                             useronescore.setText(opponentscore);

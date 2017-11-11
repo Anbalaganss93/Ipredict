@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te\\values-te.xml",
+        "outputFile": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te\\values-te.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 174
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -30,7 +30,7 @@
                     "endOffset": 253
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -49,7 +49,7 @@
                     "endOffset": 358
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -68,7 +68,7 @@
                     "endOffset": 453
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -87,7 +87,7 @@
                     "endOffset": 578
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -106,7 +106,7 @@
                     "endOffset": 670
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -125,7 +125,7 @@
                     "endOffset": 841
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -144,7 +144,7 @@
                     "endOffset": 968
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -163,7 +163,7 @@
                     "endOffset": 1081
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -182,7 +182,7 @@
                     "endOffset": 1204
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -201,7 +201,7 @@
                     "endOffset": 1311
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -220,7 +220,7 @@
                     "endOffset": 1416
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -239,7 +239,7 @@
                     "endOffset": 1503
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -258,7 +258,7 @@
                     "endOffset": 1605
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -277,7 +277,7 @@
                     "endOffset": 1710
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -296,7 +296,7 @@
                     "endOffset": 1818
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -315,7 +315,7 @@
                     "endOffset": 1898
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -334,7 +334,7 @@
                     "endOffset": 2042
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -353,7 +353,7 @@
                     "endOffset": 2187
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -372,7 +372,7 @@
                     "endOffset": 2292
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -391,7 +391,7 @@
                     "endOffset": 2371
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 0,
@@ -410,7 +410,7 @@
                     "endOffset": 2449
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 0,
@@ -429,7 +429,7 @@
                     "endOffset": 2532
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 0,
@@ -448,7 +448,7 @@
                     "endOffset": 2630
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 0,
@@ -467,7 +467,7 @@
                     "endOffset": 2731
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 0,
@@ -486,7 +486,7 @@
                     "endOffset": 2828
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 0,
@@ -505,7 +505,7 @@
                     "endOffset": 2925
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 0,
@@ -524,7 +524,7 @@
                     "endOffset": 3023
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 0,
@@ -543,7 +543,7 @@
                     "endOffset": 3099
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 0,
@@ -562,7 +562,7 @@
                     "endOffset": 3209
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 0,
@@ -581,7 +581,7 @@
                     "endOffset": 3306
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 0,
@@ -600,7 +600,7 @@
                     "endOffset": 3409
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 0,
@@ -619,7 +619,7 @@
                     "endOffset": 3530
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 0,
@@ -638,7 +638,7 @@
                     "endOffset": 3682
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 0,
@@ -657,7 +657,7 @@
                     "endOffset": 3819
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 0,
@@ -676,7 +676,7 @@
                     "endOffset": 3953
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 0,
@@ -695,7 +695,7 @@
                     "endOffset": 4053
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 0,
@@ -714,7 +714,7 @@
                     "endOffset": 4145
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 0,
@@ -733,7 +733,7 @@
                     "endOffset": 4252
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 0,
@@ -752,7 +752,7 @@
                     "endOffset": 4338
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 0,
@@ -771,7 +771,7 @@
                     "endOffset": 4508
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 4639
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 4759
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 4853
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 4939
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 5024
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 5089
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 5165
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -923,7 +923,7 @@
                     "endOffset": 5242
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -942,7 +942,7 @@
                     "endOffset": 5335
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -961,7 +961,7 @@
                     "endOffset": 5417
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -980,7 +980,7 @@
                     "endOffset": 5499
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -999,7 +999,7 @@
                     "endOffset": 5587
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1018,7 +1018,7 @@
                     "endOffset": 5696
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1037,7 +1037,7 @@
                     "endOffset": 5759
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1056,7 +1056,7 @@
                     "endOffset": 5837
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1075,7 +1075,7 @@
                     "endOffset": 6003
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1094,7 +1094,7 @@
                     "endOffset": 6115
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -1113,7 +1113,7 @@
                     "endOffset": 6301
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -1132,7 +1132,7 @@
                     "endOffset": 6433
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -1151,7 +1151,7 @@
                     "endOffset": 6550
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -1170,7 +1170,7 @@
                     "endOffset": 6746
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -1189,7 +1189,7 @@
                     "endOffset": 6873
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -1208,7 +1208,7 @@
                     "endOffset": 7000
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -1227,7 +1227,7 @@
                     "endOffset": 7199
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -1246,7 +1246,7 @@
                     "endOffset": 7407
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -1265,7 +1265,7 @@
                     "endOffset": 7517
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -1284,7 +1284,7 @@
                     "endOffset": 7701
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -1303,7 +1303,7 @@
                     "endOffset": 7831
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -1322,7 +1322,7 @@
                     "endOffset": 8041
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -1341,7 +1341,7 @@
                     "endOffset": 8230
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -1360,7 +1360,7 @@
                     "endOffset": 8324
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -1379,7 +1379,7 @@
                     "endOffset": 8422
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -1398,7 +1398,7 @@
                     "endOffset": 8533
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -1417,7 +1417,7 @@
                     "endOffset": 8673
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -1436,7 +1436,7 @@
                     "endOffset": 8786
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -1455,7 +1455,7 @@
                     "endOffset": 8885
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -1474,7 +1474,7 @@
                     "endOffset": 8991
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -1493,7 +1493,7 @@
                     "endOffset": 9090
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -1512,7 +1512,7 @@
                     "endOffset": 9191
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -1531,7 +1531,7 @@
                     "endOffset": 9269
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -1550,7 +1550,7 @@
                     "endOffset": 9329
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-te\\values-te.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1569,7 +1569,7 @@
                     "endOffset": 9440
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -1588,7 +1588,7 @@
                     "endOffset": 9539
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -1607,7 +1607,7 @@
                     "endOffset": 9684
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -1626,7 +1626,7 @@
                     "endOffset": 9785
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -1645,7 +1645,7 @@
                     "endOffset": 9896
                 },
                 "from": {
-                    "file": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\10.2.0\\res\\values-te\\values.xml",
+                    "file": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\10.2.0\\res\\values-te\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

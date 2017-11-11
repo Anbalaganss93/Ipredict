@@ -100,15 +100,15 @@
                                 android:layout_gravity="center"
                                 android:contentDescription="@null"
                                 android:scaleType="fitCenter"
-                                android:src="@drawable/cricketdefaultimage" />
+                                android:src="@drawable/foot2" />
 
                             <TextView
                                 android:id="@+id/vs"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
-                                android:layout_marginTop="20dp"
                                 android:layout_marginLeft="15dp"
+                                android:layout_marginTop="20dp"
                                 android:background="@drawable/circledrawable"
                                 android:gravity="center"
                                 android:padding="6dp"
@@ -134,21 +134,33 @@
                 </FrameLayout>
             </LinearLayout>
 
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_gravity="bottom">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:contentDescription="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/bottomstyle2_right" />
+            </FrameLayout>
+
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 android:layout_gravity="bottom"
-
                 android:gravity="center"
                 android:title=""
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
 
+
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/rectangleshape"
                     android:orientation="vertical">
 
                     <TextView
@@ -168,7 +180,6 @@
                         style="@android:style/TextAppearance.DeviceDefault.Small"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:layout_marginBottom="5dp"
                         android:gravity="center"
                         android:paddingLeft="5dp"
                         android:paddingRight="5dp"
@@ -179,12 +190,12 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="60dp"
+                    android:gravity="right"
                     android:orientation="horizontal">
 
                     <LinearLayout
-                        android:layout_width="0dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:layout_weight="1"
                         android:gravity="right"
                         android:orientation="horizontal"
                         android:paddingRight="10dp">
@@ -236,17 +247,16 @@
                     </RelativeLayout>
 
                     <LinearLayout
-                        android:layout_width="0dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_gravity="left"
-                        android:layout_weight="1"
                         android:orientation="horizontal"
-                        android:paddingLeft="10dp">
+                        android:paddingLeft="5dp">
 
                         <com.mikhaellopez.circularimageview.CircularImageView
                             android:id="@+id/competitorimg"
-                            android:layout_width="40dp"
-                            android:layout_height="40dp"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
                             android:layout_gravity="center_vertical"
                             android:contentDescription="@null"
                             android:scaleType="centerCrop"
@@ -259,13 +269,15 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
-                            android:paddingLeft="5dp"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="5dp"
                             android:text="7"
                             android:textColor="@color/white"
                             android:textSize="20sp" />
                     </LinearLayout>
                 </LinearLayout>
             </android.support.v7.widget.Toolbar>
+
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
 

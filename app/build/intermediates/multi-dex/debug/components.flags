@@ -1,7 +1,7 @@
--injars 'E:\Android Project BB\Ipridict\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
--outjars 'E:\Android Project BB\Ipridict\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+-injars 'C:\sample\Ipredict-master\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\sample\Ipredict-master\app\build\intermediates\multi-dex\debug\componentClasses.jar'
 
--libraryjars 'C:\Users\Android\AppData\Local\Android\Sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+-libraryjars 'C:\Users\MindsBeam\AppData\Local\Android\Sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
 
 -forceprocessing
 -dontoptimize
@@ -10,7 +10,7 @@
 -dontpreverify
 -dontnote **
 -dontwarn **
--printconfiguration 'E:\Android Project BB\Ipridict\app\build\intermediates\multi-dex\debug\components.flags'
+-printconfiguration 'C:\sample\Ipredict-master\app\build\intermediates\multi-dex\debug\components.flags'
 
 
 -keep class com.ipredictfantasy.activity.IpredictApplication {

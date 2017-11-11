@@ -1,30 +1,38 @@
 [
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\prdick_right.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable-xhdpi\\prdick_right.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\met_ic_clear.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\exploded-aar\\com.rengwuxian.materialedittext\\library\\2.1.4\\res\\drawable-xhdpi\\met_ic_clear.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawericon.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable-xhdpi\\drawericon.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_white.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xhdpi\\home_white.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cricketbaticon.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable-xhdpi\\cricketbaticon.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\footballicon.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xhdpi\\footballicon.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\footballicon.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable-xhdpi\\footballicon.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bottomstyle.9.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xhdpi\\bottomstyle.9.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\met_ic_clear.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\exploded-aar\\com.rengwuxian.materialedittext\\library\\2.1.4\\res\\drawable-xhdpi\\met_ic_clear.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cricketbaticon.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xhdpi\\cricketbaticon.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ilogo.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable-xhdpi\\ilogo.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ilogo.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xhdpi\\ilogo.png"
     },
     {
-        "merged": "E:\\Android Project BB\\Ipridict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_white.png",
-        "source": "E:\\Android Project BB\\Ipridict\\app\\src\\main\\res\\drawable-xhdpi\\home_white.png"
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_place.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_place.png"
+    },
+    {
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\prdick_right.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xhdpi\\prdick_right.png"
+    },
+    {
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawericon.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xhdpi\\drawericon.png"
     }
 ]
