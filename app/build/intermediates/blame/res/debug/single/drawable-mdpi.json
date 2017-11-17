@@ -16,6 +16,10 @@
         "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-mdpi\\bottomstyle.9.png"
     },
     {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_brush_stroke.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_brush_stroke.png"
+    },
+    {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawericon.png",
         "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-mdpi\\drawericon.png"
     },

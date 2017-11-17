@@ -20,12 +20,12 @@
         "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xxxhdpi\\internetconnection.png"
     },
     {
-        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\applogo.png",
-        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xxxhdpi\\applogo.png"
-    },
-    {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rateunselect.png",
         "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xxxhdpi\\rateunselect.png"
+    },
+    {
+        "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\applogo.png",
+        "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xxxhdpi\\applogo.png"
     },
     {
         "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\howtoplayicon.png",
@@ -90,6 +90,10 @@
     {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\comp_icon.png",
         "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-xxxhdpi\\comp_icon.png"
+    },
+    {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_brush_stroke.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_brush_stroke.png"
     },
     {
         "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\prdick_right.png",

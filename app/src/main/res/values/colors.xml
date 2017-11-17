@@ -18,4 +18,6 @@
 
     <color name="tabunselected">#a3a0a0</color>
     <color name="tabselected">#FFFFFF</color>
+    <color name="transprent">#0000FFFF</color>
+    <color name="rippilecolor">#e9a0fff3</color>
 </resources>

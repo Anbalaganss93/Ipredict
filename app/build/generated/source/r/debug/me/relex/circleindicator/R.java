@@ -22,7 +22,7 @@ public final class R {
 		public static final int ci_width = 0x7f010115;
 	}
 	public static final class drawable {
-		public static final int white_radius = 0x7f0201f8;
+		public static final int white_radius = 0x7f0201fb;
 	}
 	public static final class id {
 		public static final int bottom = 0x7f0f003b;

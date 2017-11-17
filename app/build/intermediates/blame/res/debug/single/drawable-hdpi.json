@@ -8,6 +8,10 @@
         "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\src\\main\\res\\drawable-hdpi\\prdick_right.png"
     },
     {
+        "merged": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_brush_stroke.png",
+        "source": "C:\\Sampleprojects\\Ipredict-develop\\Ipredict\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_brush_stroke.png"
+    },
+    {
         "merged": "C:\\sample\\Ipredict-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_place.png",
         "source": "C:\\sample\\Ipredict-master\\app\\src\\main\\res\\drawable-hdpi\\ic_place.png"
     },
